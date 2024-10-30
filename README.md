@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm Maulana!
 
 Welcome to my GitHub profile! I'm a passionate developer, creator, and learner, always excited about coding, open-source, and building meaningful projects.
 
@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and learner, 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning: [Technologies you're learning]
-- 🔭 I’m working on: [Current project or skill area]
-- 💬 Ask me about: [Your expertise topics]
-- 📫 How to reach me: [Email or LinkedIn]
-- 🌎 Fun fact: [Something interesting about you]
+
+-   🌱 I’m currently learning: Rust, Java, React, & Svelte
+-   🔭 I’m working on: Laboratory Monitoring Software for Diponegoro University Nutrition Department
+-   📫 How to reach me: [Email](mailto:smamalik33@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhamad-maulana-ihsan/)
+-   🌎 Fun fact: Prefer 🥛 milk than ☕️ coffe
 
 ---
 
@@ -19,9 +19,10 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and learner, 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 > Add more skills as badges that represent your tech stack!
@@ -30,18 +31,20 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and learner, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauljurassicia&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauljurassicia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🚀 Projects
 
 ### [Project Name 1](https://github.com/YourUsername/Project1)
+
 **Description:** Brief overview of the project and what it does.
 
 ### [Project Name 2](https://github.com/YourUsername/Project2)
+
 **Description:** Brief overview of the project and what it does.
 
 > Add more projects and link to their repositories!
